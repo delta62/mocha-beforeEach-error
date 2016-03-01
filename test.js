@@ -7,3 +7,9 @@ describe('My Test Suite', function() {
         console.log('success!');
     });
 });
+
+describe('some other suite', function() {
+    it('should do another thing', function() {
+        console.log('success!');
+    });
+});
